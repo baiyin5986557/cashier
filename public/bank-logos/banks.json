@@ -1,0 +1,335 @@
+{
+  "工商银行": {
+    "bankName": "工商银行",
+    "bankLogo": "http://img.lundear.com/e927fa.png",
+    "bankPhone": "95588",
+    "bankUrl": "http://www.icbc.com.cn",
+    "abbr": "ICBC",
+    "cardName": "牡丹卡普卡",
+    "cardType": "借记卡"
+  },
+  "农业银行": {
+    "bankName": "农业银行",
+    "bankLogo": "http://img.lundear.com/7a898a.png",
+    "bankPhone": "95599",
+    "bankUrl": "http://www.abchina.com",
+    "abbr": "ABC",
+    "cardName": "金穗通宝卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "中国银行": {
+    "bankName": "中国银行",
+    "bankLogo": "http://img.lundear.com/4d1f85.png",
+    "bankPhone": "95566",
+    "bankUrl": "http://www.boc.cn",
+    "abbr": "BOC",
+    "cardName": "联名卡",
+    "cardType": "借记卡"
+  },
+  "中国建设银行": {
+    "bankName": "中国建设银行",
+    "bankLogo": "http://img.lundear.com/8003a3.png",
+    "bankPhone": "95533",
+    "bankUrl": "http://www.ccb.com",
+    "abbr": "CCB",
+    "cardName": "龙卡通",
+    "cardType": "借记卡"
+  },
+  "交通银行": {
+    "bankName": "交通银行",
+    "bankLogo": "http://img.lundear.com/f96fae.png",
+    "bankPhone": "95559",
+    "bankUrl": "http://www.bankcomm.com",
+    "abbr": "COMM",
+    "cardName": "太平洋借记卡",
+    "cardType": "借记卡"
+  },
+  "中国邮政储蓄银行": {
+    "bankName": "中国邮政储蓄银行",
+    "bankLogo": "http://img.lundear.com/696d05.png",
+    "bankPhone": "95580",
+    "bankUrl": "http://www.psbc.com",
+    "abbr": "PSBC",
+    "cardName": "绿卡银联标准卡",
+    "cardType": "借记卡"
+  },
+  "中信银行": {
+    "bankName": "中信银行",
+    "bankLogo": "http://img.lundear.com/6cd57e.png",
+    "bankPhone": "95558",
+    "bankUrl": "http://www.citicbank.com",
+    "abbr": "CITIC",
+    "cardName": "理财宝IC卡",
+    "cardType": "借记卡"
+  },
+  "平安银行": {
+    "bankName": "平安银行",
+    "bankLogo": "http://img.lundear.com/0f2cb5.png",
+    "bankPhone": "95511",
+    "bankUrl": "http://bank.pingan.com",
+    "abbr": "SPABANK",
+    "cardName": "新磁条借记卡",
+    "cardType": "借记卡"
+  },
+  "广发银行": {
+    "bankName": "广发银行",
+    "bankLogo": "http://img.lundear.com/35494a.png",
+    "bankPhone": "\t400-830-8003",
+    "bankUrl": "http://www.cgbchina.com.cn",
+    "abbr": "GDB",
+    "cardName": "理财通卡",
+    "cardType": "借记卡"
+  },
+  "北京农村商业银行": {
+    "bankName": "北京农村商业银行",
+    "bankLogo": "http://img.lundear.com/6b64b5.png",
+    "bankPhone": "96198",
+    "bankUrl": "http://www.bjrcb.com",
+    "abbr": "BJRCB",
+    "cardName": "惠通卡",
+    "cardType": "借记卡"
+  },
+  "四川农村商业联合银行": {
+    "bankName": "四川农村商业联合银行",
+    "bankLogo": "http://img.lundear.com/fdb9bb.png",
+    "bankPhone": "028-96633",
+    "bankUrl": "http://www.scrcu.com",
+    "abbr": "",
+    "cardName": "蜀信卡",
+    "cardType": "借记卡"
+  },
+  "沧州银行": {
+    "bankName": "沧州银行",
+    "bankLogo": "http://img.lundear.com/czb6bk.png",
+    "bankPhone": "96328",
+    "bankUrl": "http://www.czccb.cn",
+    "abbr": "BOCZ",
+    "cardName": "狮城卡",
+    "cardType": "借记卡"
+  },
+  "中原银行": {
+    "bankName": "中原银行",
+    "bankLogo": "http://img.lundear.com/zy9f2e.png",
+    "bankPhone": "95186",
+    "bankUrl": "http://www.zybank.com.cn",
+    "abbr": "ZYB",
+    "cardName": "如愿卡",
+    "cardType": "借记卡"
+  },
+  "徽商银行": {
+    "bankName": "徽商银行",
+    "bankLogo": "http://img.lundear.com/f43dfe.png",
+    "bankPhone": "400-889-6588",
+    "bankUrl": "http://www.hsbank.com.cn",
+    "abbr": "HSBANK",
+    "cardName": "借记卡",
+    "cardType": "借记卡"
+  },
+  "星展银行": {
+    "bankName": "星展银行",
+    "bankLogo": "http://img.lundear.com/xz19zp.png",
+    "bankPhone": "400-820-8988",
+    "bankUrl": "https://www.dbs.com.cn",
+    "abbr": "",
+    "cardName": "星展银行借记卡",
+    "cardType": "借记卡"
+  },
+  "自贡银行": {
+    "bankName": "自贡银行",
+    "bankLogo": "http://img.lundear.com/zigong0.png",
+    "bankPhone": "0813-8240591",
+    "bankUrl": "http://www.zgbank.com.cn",
+    "abbr": "ZGCCB",
+    "cardName": "锦程卡",
+    "cardType": "借记卡"
+  },
+  "上海农村商业银行": {
+    "bankName": "上海农村商业银行",
+    "bankLogo": "http://img.lundear.com/sh2nsb.png",
+    "bankPhone": "400-696-2999",
+    "bankUrl": "http://www.srcb.com",
+    "abbr": "",
+    "cardName": "借记IC卡",
+    "cardType": "借记卡"
+  },
+  "江苏银行": {
+    "bankName": "江苏银行",
+    "bankLogo": "http://img.lundear.com/ce7bc2.png",
+    "bankPhone": "95319",
+    "bankUrl": "http://www.jsbchina.cn",
+    "abbr": "JSBANK",
+    "cardName": "紫金卡",
+    "cardType": "借记卡"
+  },
+  "九江银行": {
+    "bankName": "九江银行",
+    "bankLogo": "http://img.lundear.com/26b8c1.png",
+    "bankPhone": "0792-96202",
+    "bankUrl": "http://www.jjccb.com",
+    "abbr": "JJBANK",
+    "cardName": "庐山卡",
+    "cardType": "借记卡"
+  },
+  "盛京银行": {
+    "bankName": "盛京银行",
+    "bankLogo": "http://img.lundear.com/sjing.png",
+    "bankPhone": "95337",
+    "bankUrl": "http://www.shengjingbank.com.cn",
+    "abbr": "SJBANK",
+    "cardName": "玫瑰卡",
+    "cardType": "借记卡"
+  },
+  "广州银行股份有限公司": {
+    "bankName": "广州银行股份有限公司",
+    "bankLogo": "http://img.lundear.com/cc0cb0.png",
+    "bankPhone": "020-96699",
+    "bankUrl": "http://www.gzcb.com.cn",
+    "abbr": "GCB",
+    "cardName": "羊城借记卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "河北省农村信用社联合社": {
+    "bankName": "河北省农村信用社联合社",
+    "bankLogo": "http://img.lundear.com/2ed454.png",
+    "bankPhone": "96369",
+    "bankUrl": "https://www.hb96369.com",
+    "abbr": "HBRCU",
+    "cardName": "信通卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "长沙银行": {
+    "bankName": "长沙银行",
+    "bankLogo": "http://img.lundear.com/csb34f.png",
+    "bankPhone": "0731-96511",
+    "bankUrl": "http://www.cscb.cn",
+    "abbr": "CSCB",
+    "cardName": "芙蓉卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "河北银行": {
+    "bankName": "河北银行",
+    "bankLogo": "http://img.lundear.com/bf384f.png",
+    "bankPhone": "400-612-9999",
+    "bankUrl": "http://www.hebbank.com",
+    "abbr": "BHB",
+    "cardName": "如意借记卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "招商银行": {
+    "bankName": "招商银行",
+    "bankLogo": "http://img.lundear.com/e4aa64.png",
+    "bankPhone": "95555",
+    "bankUrl": "https://www.cmbchina.com",
+    "abbr": "CMB",
+    "cardName": "招行国际卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "民生银行": {
+    "bankName": "民生银行",
+    "bankLogo": "http://img.lundear.com/1667d2.png",
+    "bankPhone": "95568",
+    "bankUrl": "http://www.cmbc.com.cn",
+    "abbr": "CMBC",
+    "cardName": "民生借记卡",
+    "cardType": "借记卡"
+  },
+  "中国光大银行": {
+    "bankName": "中国光大银行",
+    "bankLogo": "http://img.lundear.com/8cb996.png",
+    "bankPhone": "95595",
+    "bankUrl": "http://www.cebbank.com",
+    "abbr": "CEB",
+    "cardName": "手机支付卡",
+    "cardType": "借记卡"
+  },
+  "创兴银行有限公司": {
+    "bankName": "创兴银行有限公司",
+    "bankLogo": "http://img.lundear.com/chb2xi.png",
+    "bankPhone": "(852) 3768 6688",
+    "bankUrl": "http://www.chbank.com",
+    "abbr": "",
+    "cardName": "港币借记卡",
+    "cardType": "借记卡"
+  },
+  "广东省农村信用社联合社": {
+    "bankName": "广东省农村信用社联合社",
+    "bankLogo": "http://img.lundear.com/2ed454.png",
+    "bankPhone": "020-96138",
+    "bankUrl": "http://www.gdrcu.com",
+    "abbr": "GDRCC",
+    "cardName": "信通卡(银联卡)",
+    "cardType": "借记卡"
+  },
+  "福建省农村信用社联合社": {
+    "bankName": "福建省农村信用社联合社",
+    "bankLogo": "http://img.lundear.com/2ed454.png",
+    "bankPhone": "96336",
+    "bankUrl": "http://m.fjnx.com.cn",
+    "abbr": "FJNX",
+    "cardName": "福建海峡旅游卡",
+    "cardType": "借记卡"
+  },
+  "贵阳银行": {
+    "bankName": "贵阳银行",
+    "bankLogo": "http://img.lundear.com/c9ffba.png",
+    "bankPhone": "0851-86852856",
+    "bankUrl": "http://www.bankgy.cn",
+    "abbr": "GYCB",
+    "cardName": "-",
+    "cardType": "借记卡"
+  },
+  "贵州省农村信用社联合社": {
+    "bankName": "贵州省农村信用社联合社",
+    "bankLogo": "http://img.lundear.com/2ed454.png",
+    "bankPhone": "96688",
+    "bankUrl": "http://www.gznxbank.com",
+    "abbr": "GZRCU",
+    "cardName": "信合卡",
+    "cardType": "借记卡"
+  },
+  "华夏银行": {
+    "bankName": "华夏银行",
+    "bankLogo": "http://img.lundear.com/ff8be3.png",
+    "bankPhone": "95577",
+    "bankUrl": "http://www.hxb.com.cn",
+    "abbr": "HXBANK",
+    "cardName": "万事达信用卡金卡",
+    "cardType": "贷记卡"
+  },
+  "兴业银行": {
+    "bankName": "兴业银行",
+    "bankLogo": "http://img.lundear.com/5b7c5b.png",
+    "bankPhone": "95561",
+    "bankUrl": "https://www.cib.com.cn",
+    "abbr": "CIB",
+    "cardName": "VISA商务普卡",
+    "cardType": "贷记卡"
+  },
+  "新韩银行": {
+    "bankName": "新韩银行",
+    "bankLogo": "",
+    "bankPhone": "400-668-8600",
+    "bankUrl": "https://www.shinhanchina.com",
+    "abbr": "BOSH",
+    "cardName": "新韩卡",
+    "cardType": "借记卡"
+  },
+  "交通银行香港分行": {
+    "bankName": "交通银行香港分行",
+    "bankLogo": "http://img.lundear.com/f96fae.png",
+    "bankPhone": "95559",
+    "bankUrl": "http://www.bankcomm.com",
+    "abbr": "",
+    "cardName": "交通银行港币借记卡",
+    "cardType": "借记卡"
+  },
+  "山西农村商业联合银行": {
+    "bankName": "山西农村商业联合银行",
+    "bankLogo": "http://img.lundear.com/2ed454.png",
+    "bankPhone": "96518",
+    "bankUrl": "https://www.shanxinj.com",
+    "abbr": "",
+    "cardName": "信合通",
+    "cardType": "借记卡"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cashier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@icongo/bl": "^1.2.0",
+    "qrcode": "^1.5.4",
+    "vant": "^4.9.0",
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "postcss": "^8.5.3",
+    "vite": "^6.3.5"
+  }
+}
